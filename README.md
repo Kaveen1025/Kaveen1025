@@ -1,17 +1,29 @@
-### Hello, I'm Kaveen Wijethunga!👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaveen</h1>
+<!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
+
+<br/>
+<br/>
+
+## 🙋‍♂️ About Me
 
 - 🔭 I’m a Software Enginnering Undergraduate at SLIIT
-- 🌱 I’m currently learning Angular
 - 👯 I’m looking for an internship to gain experience & expertise
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me **kaveensithija25@gmail.com**
 
- 
- ## My Stats
+<br/>
+<br/>
+
+## 📊 My Github Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kaveen1025&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveen1025&layout=compact"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+<br/>
+<br/>
 
-## Languages & Tools
+## 🚀 Languages and Tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
