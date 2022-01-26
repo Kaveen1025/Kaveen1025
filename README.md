@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Software Enginnering Undergraduate at SLIIT
+- 🔭 I’m a Software Engineering Undergraduate at SLIIT
 - 👯 I’m looking for an internship to gain experience & expertise
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me **kaveensithija25@gmail.com**
